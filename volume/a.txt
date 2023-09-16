@@ -1,0 +1,6 @@
+Each time hello.js is run, it would add a new line with a date:
+
+
+2023-09-16T21:49:38.328Z
+2023-09-16T21:49:44.293Z
+2023-09-16T21:49:49.347Z

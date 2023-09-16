@@ -1,0 +1,6 @@
+services:
+  my_test_service:
+    image: katya # name of the image used in `docker build` command
+    working_dir: /.
+#    volumes:
+#      - ./volume/:/volume
